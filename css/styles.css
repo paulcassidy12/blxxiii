@@ -1,0 +1,167 @@
+/* color hunt values: #7C9473 CFDAC8 E8EAE6 CDD0CB*/
+/**********TAG SELECTORS************/
+
+h1 {
+  font-size: 3.625rem;
+  color: #CDD0CB;
+  padding: 75 0 0 0;
+  width: 70%;
+  margin: 150px auto 0;
+  font-family: Merriweather, serif;
+  color: #e8eae6;
+  line-height: 200%;
+}
+
+h2{
+  font-family: Montserrat, sans-serif;
+  font-size: 2.5rem;
+  margin: 0;
+  color: #CFDAC8;
+}
+h3{
+  font-family: Montserrat, sans-serif;
+  color: white;
+  line-height: 1;
+}
+img:hover{
+  background-color: gold;
+}
+body {
+  background-color: #7c9473;
+  margin: 75px 0 0 0;
+  padding: 0 0 0 0;
+  text-align: center;
+  font-family: merriweather, serif;
+  font-size: 200%;
+  font-weight: normal;
+  color: white;
+}
+
+/**********CLASS SELECTORS************/
+.btn{
+  color:#11999E;
+}
+.chart01 {
+  position: absolute;
+  right: 300px;
+  top: 250px;
+}
+
+.chart02 {
+  position: absolute;
+  top: 450px;
+}
+.chart03 {
+
+}
+.footer-link{
+  color:#CFDAC8;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 20px;
+  text-decoration-line:none;
+}
+.footer-link:hover{
+  color:#18191A;
+}
+
+.skillpic2{
+  width: 45%;
+  float:right;
+  margin: 0 0 0 30px;
+}
+.skillpic1{
+  width: 35%;
+float: left;
+margin: 0 30px 0 0;
+}
+.top {
+  background-color: #7c9473;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.skill-row
+{
+  width: 65%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1rem;
+  color: #CDD0CB;
+}
+.jack1{
+  margin: 60px;
+}
+.IKnowJack{
+  width:40%;
+  margin: 50px auto;
+  line-height: 2;
+  color: #CDD0CB;
+  font-size: 1rem;
+}
+.hr1{
+  color: #CDD0CB;
+  border-style: dotted none none none;
+  border-width: 6px;
+  margin: 65px auto;
+  width: 5%;
+}
+.middle-container{
+    width: 75%;
+    margin: 100px auto;
+    text-align: center;
+    line-height: 2;
+    font-size: 1rem;
+    color: #CDD0CB;
+}
+.lastp{
+  padding: 0 200px;
+  margin: 50px;
+}
+.bottom-container{
+  background-color: grey;
+  margin: 0;
+  padding:20px;
+  font-size: 14px;
+  line-height: 2;
+  color: #CDD0CB;
+}
+
+.btn {
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   color: #7C9473;
+   font-family: merriweather;
+   font-size: 20px;
+   font-weight: 100;
+   height: 40px;
+   width: 200px;
+   background-color: #CDD0CB;
+   -webkit-box-shadow: none;
+   -moz-box-shadow: none;
+   box-shadow: none;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: white;
+   background-image: -webkit-linear-gradient(top, white, white);
+   background-image: -moz-linear-gradient(top, white, white);
+   background-image: -ms-linear-gradient(top, white, white);
+   background-image: -o-linear-gradient(top, white, white);
+   background-image: -webkit-gradient(to bottom, white, white);
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   text-decoration: none;
+}
+
+/**********ID SELECTORS************/
